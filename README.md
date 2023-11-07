@@ -19,6 +19,7 @@ Step 6: Get contacts details and Display details give in MainActivity file.
 Step 7: Save and run the application.
 ## PROGRAM
 Name:Jagan S
+
 Reg No:212221040061
 ### activity_main.xml
 ```
